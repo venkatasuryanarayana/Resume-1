@@ -71,10 +71,10 @@ div{
 	padding: 5px;
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width: 1024px){
 
 .row{
-	background-color:brown;
+	background-color: brown;
 
 }
 	.left{
@@ -94,6 +94,15 @@ div{
 }
 
 }
+
+@media screen and (max-width: 768px){
+
+	.name{
+
+		font-size:50px;
+
+	}
+} 
 
  /*index*/
 
